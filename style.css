@@ -1,0 +1,15 @@
+h1 {
+    color :rgb(17, 97, 70);
+    font-size: 25px;
+}
+
+p {
+    color :blue;
+    font-size: medium;
+}
+
+a {
+    color:cadetblue;
+    font-size :medium;
+    text-decoration: none;
+}
